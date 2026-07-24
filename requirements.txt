@@ -1,0 +1,16 @@
+langchain
+langchain-groq
+faiss-cpu
+tiktoken
+langchain-community
+langchain-openai
+chromadb
+langchain_classic
+sentence-transformers
+pypdf
+python-dotenv
+langchain_classic
+##transformer
+langchain-huggingface
+sentence-transformers
+langchain_google_genai
